@@ -4,10 +4,8 @@
     "description": "",
     "main": "",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
         "dev": "webpack -w",
-        "build:backend": "tsc",
-        "build:frontend": "webpack"
+        "build": "webpack"
     },
     "keywords": [],
     "author": "",

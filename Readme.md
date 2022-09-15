@@ -1,8 +1,23 @@
 # Form Validator With Typescript
 
-## this project was made for academic purposes 
-### if you wanna see the preview click [here](link-here)
+## *this project was made for academic purposes* 
+#
+### if you wanna build this project follow the following commands 
 
+`````
+- git clone https://github.com/Guilherme-Cabral/FormValidator
+`````
+`````
+- cd FormValidator
+`````
+`````
+- npm install
+`````
+`````
+- npm build
+`````
+
+**I sugest you to run the html with the live-server** 
 
 ## Technologies Used in this project
 #
